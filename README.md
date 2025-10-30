@@ -47,8 +47,3 @@ Lancelot-m1 is a fully custom 16-bit CPU designed and implemented in Logisim Evo
 
 ## File Structure
 - `Lancelot_m1.circ`: Main Logisim Evolution circuit file containing the entire CPU design.
-
-Created by [Ansh Swaroop](https://github.com/ansh1406).
-
-## License
-[Specify your license here, e.g., MIT, GPL, etc.]
